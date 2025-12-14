@@ -1,0 +1,15 @@
+body {
+    background-color:red
+}
+#title-one {
+    color: green;
+}
+#title-two {
+    color:brown
+}
+.content {
+    background-color: darkblue;
+}
+.info {
+    background-color: lightblue
+}
